@@ -1,4 +1,4 @@
-R packages required: PMA, stringr, ROCR, MASS
+R packages required: PMA, stringr, ROCR, MASS, parallel
 
 
 To run the simulation:
