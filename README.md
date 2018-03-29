@@ -1,3 +1,6 @@
+R packages required: PMA, stringr, ROCR, MASS
+
+
 To run the simulation:
 
 1, create a folder in your computer, say, Folder1
@@ -6,7 +9,7 @@ To run the simulation:
 
 3, In Rstudio, run the code "script_singlepath_DNSMI_MC_Accuracy.R" by typing: source("./script_singlepath_DNSMI_MC_Accuracy.R")
 
-4, After the running is completed, the outcome is stored in the matrix "montecarloout" with each column representing the result from a Monte Carlo run and each row being a measurement as indicated by the row names.
+4, After the running is completed, the outcome is stored in the matrix "montecarloout" with each column representing the result from a Monte Carlo run and each row being a measurement as indicated by the row names. And the outcome will be saved as a .Rdata file whose name is initialized by "Accuracy single path..."
 
 
 
