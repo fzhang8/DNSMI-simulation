@@ -49,4 +49,5 @@ The number of search grid points will be gridc1*gridc2.
 
 
 5, repeatsN 
+
 This is the number of subsamples for DNSMI.
