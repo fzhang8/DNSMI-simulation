@@ -17,3 +17,4 @@ Meaning of some of the parameters that can be set by user:
 This is the scenario setting parameter with the possible setting values being one of "nw1, nw10, nw15, nw1010, nw1015, nw10s15, nw10s25"
 
 nw1: Low signal to nonsignal ratio
+nw10:
